@@ -1268,5 +1268,21 @@ body {
     width: 100%;
     padding-top: 20px;
   }
+
+       .footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 20px;
+}
+
+.bottom-links a {
+  color: #fff;
+  font-size: 12px;
+  margin-right: 10px;
+  text-decoration: none;
+}
     }
+
   
